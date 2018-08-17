@@ -1,0 +1,9 @@
+HTML {
+	OVERFLOW-Y: scroll
+}
+.panel {
+	BACKGROUND: #B1D8EA; COLOR: #000000 ;width: 240px;height: 510px;  margin-top:0px; left-margin:0px; 
+}
+#body {
+	border: #ffffff 2px solid; PADDING-BOTTOM: 10px; background:#ffffff; width: 98%; padding-top: 0px;min-height: 450px;;margin-top: 5px; 	position: absolute;
+}
